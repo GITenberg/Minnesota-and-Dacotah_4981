@@ -1,0 +1,28 @@
+_repo: Minnesota-and-Dacotah_4981
+creator:
+  author:
+    agent_name: Andrews, C. C. (Christopher Columbus)
+    alias: Andrews, Christopher Columbus
+    birthdate: 1829
+    deathdate: 1922
+    gutenberg_agent_id: '1615'
+    url: http://www.gutenberg.org/2009/agents/1615
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Minnesota -- Description and travel'
+- !lcsh 'Dakota Territory -- Description and travel'
+- !lcsh 'Minnesota -- History -- To 1858'
+- !lcc 'F590.3'
+- !lcsh 'Frontier and pioneer life -- Dakota Territory'
+- !lcsh 'Andrews, C. C. (Christopher Columbus), 1829-1922'
+- !lcsh 'Frontier and pioneer life -- Minnesota'
+title: Minnesota and Dacotah
+url: http://www.gutenberg.org/ebooks/4981
