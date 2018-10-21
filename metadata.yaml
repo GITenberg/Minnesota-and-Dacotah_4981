@@ -1,5 +1,5 @@
 _repo: Minnesota-and-Dacotah_4981
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Frontier and pioneer life -- Dakota Territory'
 - !lcsh 'Andrews, C. C. (Christopher Columbus), 1829-1922'
 - !lcsh 'Frontier and pioneer life -- Minnesota'
+- GITenberg
 title: Minnesota and Dacotah
 url: http://www.gutenberg.org/ebooks/4981
